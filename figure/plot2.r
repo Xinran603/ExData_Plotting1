@@ -15,3 +15,4 @@ datareduction1 <-function (startdate, enddate){
   dev.copy(png, file="plot2.png", width = 480, height = 480)
   dev.off()
 }
+
